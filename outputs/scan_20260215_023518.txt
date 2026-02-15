@@ -1,0 +1,49 @@
+NIFTY 50 SCANNER REPORT
+Generated: 2026-02-15 02:35:18
+============================================================
+
+🟦 SWING PICKS (Daily)
+------------------------------------------------------------
+1. ONGC - READY
+   Score: 80.69/100
+   Close: ₹267.40 | EMA20: ₹261.67 | EMA50: ₹252.56
+   RSI: 57.6 | Vol Ratio: 1.06x
+
+2. JSWSTEEL - READY
+   Score: 68.34/100
+   Close: ₹1232.00 | EMA20: ₹1217.94 | EMA50: ₹1188.26
+   RSI: 58.0 | Vol Ratio: 0.99x
+
+3. LT - READY
+   Score: 45.53/100
+   Close: ₹4173.90 | EMA20: ₹4039.62 | EMA50: ₹4014.60
+   RSI: 67.5 | Vol Ratio: 1.04x
+
+
+🟥 INTRADAY PICKS (15-min)
+------------------------------------------------------------
+1. EICHERMOT - WAIT (Far from VWAP)
+   Score: 60.87/100
+   Close: ₹8065.00 | VWAP: ₹7760.49
+   RSI: 64.5 | Vol Ratio: 2.11x
+
+2. SBILIFE - READY
+   Score: 54.05/100
+   Close: ₹2034.20 | VWAP: ₹2023.42
+   RSI: 60.8 | Vol Ratio: 2.58x
+
+3. SBIN - WAIT (Low volume)
+   Score: 15.55/100
+   Close: ₹1198.60 | VWAP: ₹1167.86
+   RSI: 59.2 | Vol Ratio: 0.00x
+
+
+🤖 AI ANALYSIS
+------------------------------------------------------------
+Market sentiment remains bullish, with select stocks showing strength. The overall trend indicates a potential upswing, supporting long positions.
+
+The swing picks, particularly ONGC and JSWSTEEL, are strong due to their high scores and rising RSI values, indicating upward momentum. 
+
+The intraday picks, such as SBILIFE, demonstrate momentum with high volume ratios and rising RSI, making them suitable for short-term trades.
+
+Investors should exercise caution, as market trends can reverse quickly, and thorough risk assessment is necessary before entering positions.

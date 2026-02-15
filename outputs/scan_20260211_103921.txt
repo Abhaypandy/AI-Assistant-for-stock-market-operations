@@ -1,0 +1,38 @@
+NIFTY 50 SCANNER REPORT
+Generated: 2026-02-11 10:39:21
+============================================================
+
+🟦 SWING PICKS (Daily)
+------------------------------------------------------------
+1. TITAN - WAIT (RSI high)
+   Score: 63.75/100
+   Close: ₹4319.00 | EMA20: ₹4123.35 | EMA50: ₹4054.06
+   RSI: 69.1 | Vol Ratio: 1.58x
+
+2. EICHERMOT - WAIT (RSI high)
+   Score: 59.71/100
+   Close: ₹7786.50 | EMA20: ₹7261.59 | EMA50: ₹7209.89
+   RSI: 69.9 | Vol Ratio: 2.72x
+
+
+🟥 INTRADAY PICKS (15-min)
+------------------------------------------------------------
+1. MARUTI - WAIT (Low volume)
+   Score: 20.95/100
+   Close: ₹15370.00 | VWAP: ₹15090.72
+   RSI: 68.3 | Vol Ratio: 0.00x
+
+2. DIVISLAB - WAIT (Low volume)
+   Score: 18.9/100
+   Close: ₹6232.50 | VWAP: ₹6075.52
+   RSI: 64.8 | Vol Ratio: 0.00x
+
+3. SHRIRAMFIN - WAIT (Low volume)
+   Score: 17.92/100
+   Close: ₹1053.80 | VWAP: ₹1022.61
+   RSI: 63.2 | Vol Ratio: 0.00x
+
+
+🤖 AI ANALYSIS
+------------------------------------------------------------
+⚠️  AI analysis unavailable: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}, 'request_id': 'req_011CY1hovNVNRe6tBtaDed8J'}

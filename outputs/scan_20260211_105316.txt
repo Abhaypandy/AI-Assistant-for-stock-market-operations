@@ -1,0 +1,44 @@
+NIFTY 50 SCANNER REPORT
+Generated: 2026-02-11 10:53:16
+============================================================
+
+🟦 SWING PICKS (Daily)
+------------------------------------------------------------
+1. TITAN - READY
+   Score: 66.3/100
+   Close: ₹4298.40 | EMA20: ₹4121.39 | EMA50: ₹4053.25
+   RSI: 68.0 | Vol Ratio: 1.73x
+
+2. EICHERMOT - WAIT (RSI high)
+   Score: 59.75/100
+   Close: ₹7770.00 | EMA20: ₹7260.02 | EMA50: ₹7209.24
+   RSI: 69.6 | Vol Ratio: 2.81x
+
+
+🟥 INTRADAY PICKS (15-min)
+------------------------------------------------------------
+1. MARUTI - WAIT (Low volume)
+   Score: 20.71/100
+   Close: ₹15375.00 | VWAP: ₹15093.82
+   RSI: 67.9 | Vol Ratio: 0.00x
+
+2. DIVISLAB - WAIT (Low volume)
+   Score: 19.25/100
+   Close: ₹6234.00 | VWAP: ₹6078.49
+   RSI: 65.4 | Vol Ratio: 0.00x
+
+3. HINDUNILVR - WAIT (Low volume)
+   Score: 17.98/100
+   Close: ₹2461.70 | VWAP: ₹2404.58
+   RSI: 63.3 | Vol Ratio: 0.00x
+
+
+🤖 AI ANALYSIS
+------------------------------------------------------------
+The market sentiment is moderately bullish, with key stocks showing upward momentum. However, caution is advised due to high RSI levels.
+
+The swing picks, TITAN and EICHERMOT, are strong due to their high scores and rising EMAs, indicating potential for further upside. TITAN is particularly attractive with a "READY" status.
+
+The intraday picks, although low-scoring, show momentum with MARUTI and DIVISLAB exhibiting high RSI levels, suggesting potential for short-term gains. 
+
+Investors should exercise caution due to low volume ratios in intraday picks, which may indicate lack of conviction.

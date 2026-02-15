@@ -1,0 +1,33 @@
+NIFTY 50 SCANNER REPORT
+Generated: 2026-02-11 10:25:54
+============================================================
+
+🟦 SWING PICKS (Daily)
+------------------------------------------------------------
+1. EICHERMOT - WAIT (RSI high)
+   Score: 59.72/100
+   Close: ₹7783.50 | EMA20: ₹7261.30 | EMA50: ₹7209.77
+   RSI: 69.9 | Vol Ratio: 2.52x
+
+
+🟥 INTRADAY PICKS (15-min)
+------------------------------------------------------------
+1. NESTLEIND - WAIT (Low volume)
+   Score: 18.99/100
+   Close: ₹1317.10 | VWAP: ₹1300.44
+   RSI: 65.0 | Vol Ratio: 0.00x
+
+2. BAJAJ-AUTO - WAIT (Low volume)
+   Score: 17.19/100
+   Close: ₹9850.00 | VWAP: ₹9671.22
+   RSI: 62.0 | Vol Ratio: 0.00x
+
+3. HINDUNILVR - WAIT (Low volume)
+   Score: 16.11/100
+   Close: ₹2456.70 | VWAP: ₹2404.12
+   RSI: 60.2 | Vol Ratio: 0.00x
+
+
+🤖 AI ANALYSIS
+------------------------------------------------------------
+⚠️  AI analysis unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CY1gnQgf5tExeyQztpwGw'}

@@ -129,10 +129,10 @@ def save_report(swing_picks, intraday_picks, ai_summary, logger):
             ind = pick['indicators']
             f.write(f"{i}. {pick['ticker'].replace('.NS', '')} - {pick['status']}\n")
             f.write(f"   Score: {pick['score']}/100\n")
-            f.write(f"   Close: ₹{ind['close']:.2f} | VWAP: ₹{ind['vwap']:.2f}\n")
+            f.write(f"   CLOSE: ₹{ind['close']:.2f} | VWAP: ₹{ind['vwap']:.2f}\n")
             f.write(f"   RSI: {ind['rsi']:.1f} | Vol Ratio: {ind['volume_ratio']:.2f}x\n\n")
         
-        f.write(f"\n🤖 AI ANALYSIS\n")
+        f.write(f"\n🤖 AI ANALYSIS \n")
         f.write(f"{'-'*60}\n")
         f.write(ai_summary)
     
